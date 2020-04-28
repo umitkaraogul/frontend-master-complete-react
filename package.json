@@ -1,0 +1,35 @@
+{
+  "name": "frontend-master-complete-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/core": "10.0.28",
+    "@frontendmasters/pet": "1.0.3",
+    "@reach/router": "1.3.3",
+    "@testing-library/react": "10.0.3",
+    "jest": "25.4.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-redux": "7.2.0",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3",
+    "cross-env": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
